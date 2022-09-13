@@ -7,7 +7,6 @@
 </div>
 
 
-- 🔭 I’m currently working on [Rock Paper Scissors](https://onetwothreeshoot.netlify.app/)
 
 - 👯 I’m looking to collaborate on **any projects possible!**
 
