@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👾, I'm Kwabena!</h1>
-<h3 align="center">A front-end developer with an eagerness to help others from Canada</h3>
+<h3 align="center">A front-end developer with an eagerness to contribute and collaborate!</h3>
 
 
 <div class="animation" style="border: 2px solid red;">
