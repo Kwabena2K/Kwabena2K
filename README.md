@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Kwabena 👋</h1>
 <p align="center">
-  Front-End Developer with 3 years of experience, transitioning into full-stack engineering.<br/>
-  I build clean, functional interfaces and I'm expanding into back-end development with Ruby on Rails and PostgreSQL.
+  Full Stack Software Engineer with 3 years of experience. <br/>
 </p>
 
 <p align="center">
