@@ -19,3 +19,10 @@ from customer-facing templates to backend features and full apps built from scra
 <img src="https://skillicons.dev/icons?i=js,ts,ruby,react,tailwind,sass,nodejs,rails,postgres,git" alt="JavaScript, TypeScript, Ruby, React, Tailwind CSS, Sass, Node.js, Rails, PostgreSQL, Git" />
 
 Also: LiquidJS · SQL · REST APIs · OAuth 2.0 · Netlify
+
+
+
+### Featured project
+
+**[AniQuiz](https://liquidjsplayground.netlify.app/)**: A browser tool for writing and testing Liquid templates, the template language behind invoices, emails and storefronts.
+React, LiquidJS, JavaScript, TailwindCSS, Vite, Vitest
