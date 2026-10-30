@@ -24,5 +24,5 @@ Also: LiquidJS · SQL · REST APIs · OAuth 2.0 · Netlify
 
 ### Featured project
 
-**[AniQuiz](https://liquidjsplayground.netlify.app/)**: A browser tool for writing and testing Liquid templates, the template language behind invoices, emails and storefronts.
+**[LiquidJS Playground](https://liquidjsplayground.netlify.app/)**: A browser tool for writing and testing Liquid templates, the template language behind invoices, emails and storefronts.
 React, LiquidJS, JavaScript, TailwindCSS, Vite, Vitest
